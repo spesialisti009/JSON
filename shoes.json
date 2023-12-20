@@ -7,7 +7,7 @@
         "harga": 500000,
         "warna": ["hitam", "putih", "merah"],
         "ukuran": [38, 39, 40, 41, 42],
-        "gambar": "gambar_sepatu_olahraga.png"
+        "gambar": "https://github.com/spesialisti009/JSON/blob/main/air_jordan_1_mid_paris_mens_shoes_n65720_1.png"
       },
       {
         "id": 2,
@@ -16,7 +16,7 @@
         "harga": 700000,
         "warna": ["hitam", "cokelat", "biru"],
         "ukuran": [40, 41, 42, 43],
-        "gambar": "gambar_sepatu_formal.png"
+        "gambar": "https://github.com/spesialisti009/JSON/blob/main/air_jordan_1_mid_se_mens_shoes_25n63b_1.png"
       },
       {
         "id": 3,
@@ -25,7 +25,7 @@
         "harga": 600000,
         "warna": ["biru", "abu-abu", "ungu"],
         "ukuran": [38, 39, 40, 41],
-        "gambar": "gambar_sepatu_lari.png"
+        "gambar": "https://github.com/spesialisti009/JSON/blob/main/air_jordan_1_university_gold_and_light_bordeaux_555088_706_release_date__1__1.png"
       },
       {
         "id": 4,
@@ -34,7 +34,7 @@
         "harga": 450000,
         "warna": ["cokelat", "hitam", "hijau"],
         "ukuran": [39, 40, 41, 42],
-        "gambar": "gambar_sepatu_casual.png"
+        "gambar": "https://github.com/spesialisti009/JSON/blob/main/jordan_5_why_not_mens_basketball_shoes_wgzd5v__1__1.png"
       },
       {
         "id": 5,
@@ -43,7 +43,7 @@
         "harga": 550000,
         "warna": ["putih", "hitam", "merah"],
         "ukuran": [38, 39, 40, 41, 42],
-        "gambar": "gambar_sepatu_sneakers.png"
+        "gambar": "https://github.com/spesialisti009/JSON/blob/main/jordan_6_17_23_shoes_kn83hh_1.png"
       },
       {
         "id": 6,
@@ -52,7 +52,7 @@
         "harga": 800000,
         "warna": ["cokelat", "hitam", "krem"],
         "ukuran": [40, 41, 42, 43],
-        "gambar": "gambar_sepatu_boots.png"
+        "gambar": "https://github.com/spesialisti009/JSON/blob/main/jordan_air_mae_womens_shoes_v9jwqq_1.png"
       },
       {
         "id": 7,
@@ -61,7 +61,7 @@
         "harga": 300000,
         "warna": ["hitam", "biru", "merah"],
         "ukuran": [38, 39, 40, 41, 42],
-        "gambar": "gambar_sepatu_sandal.png"
+        "gambar": "https://github.com/spesialisti009/JSON/blob/main/jordan_ma2_womens_shoes_ntbqkg_1.png"
       },
       {
         "id": 8,
@@ -70,26 +70,8 @@
         "harga": 750000,
         "warna": ["hitam", "cokelat", "merah"],
         "ukuran": [37, 38, 39, 40, 41],
-        "gambar": "gambar_sepatu_wedges.png"
+        "gambar": "https://github.com/spesialisti009/JSON/blob/main/jordan_ma2_womens_shoes_ntbqkg_1.png"
       },
-      {
-        "id": 9,
-        "nama": "Sepatu Pantofel",
-        "deskripsi": "Sepatu formal dengan gaya klasik",
-        "harga": 900000,
-        "warna": ["hitam", "cokelat", "biru"],
-        "ukuran": [40, 41, 42, 43],
-        "gambar": "gambar_sepatu_pantofel.png"
-      },
-      {
-        "id": 10,
-        "nama": "Sepatu Slip-on",
-        "deskripsi": "Sepatu mudah dipakai tanpa tali",
-        "harga": 400000,
-        "warna": ["hitam", "abu-abu", "biru"],
-        "ukuran": [38, 39, 40, 41, 42],
-        "gambar": "gambar_sepatu_slip_on.png"
-      }
     ]
   }
   
