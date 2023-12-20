@@ -1,0 +1,95 @@
+{
+    "sepatu": [
+      {
+        "id": 1,
+        "nama": "Sepatu Olahraga",
+        "deskripsi": "Sepatu olahraga untuk aktivitas fisik",
+        "harga": 500000,
+        "warna": ["hitam", "putih", "merah"],
+        "ukuran": [38, 39, 40, 41, 42],
+        "gambar": "gambar_sepatu_olahraga.png"
+      },
+      {
+        "id": 2,
+        "nama": "Sepatu Formal",
+        "deskripsi": "Sepatu formal untuk acara resmi",
+        "harga": 700000,
+        "warna": ["hitam", "cokelat", "biru"],
+        "ukuran": [40, 41, 42, 43],
+        "gambar": "gambar_sepatu_formal.png"
+      },
+      {
+        "id": 3,
+        "nama": "Sepatu Lari",
+        "deskripsi": "Sepatu khusus untuk lari",
+        "harga": 600000,
+        "warna": ["biru", "abu-abu", "ungu"],
+        "ukuran": [38, 39, 40, 41],
+        "gambar": "gambar_sepatu_lari.png"
+      },
+      {
+        "id": 4,
+        "nama": "Sepatu Casual",
+        "deskripsi": "Sepatu santai untuk berbagai aktivitas",
+        "harga": 450000,
+        "warna": ["cokelat", "hitam", "hijau"],
+        "ukuran": [39, 40, 41, 42],
+        "gambar": "gambar_sepatu_casual.png"
+      },
+      {
+        "id": 5,
+        "nama": "Sepatu Sneakers",
+        "deskripsi": "Sepatu gaya untuk tampilan kasual",
+        "harga": 550000,
+        "warna": ["putih", "hitam", "merah"],
+        "ukuran": [38, 39, 40, 41, 42],
+        "gambar": "gambar_sepatu_sneakers.png"
+      },
+      {
+        "id": 6,
+        "nama": "Sepatu Boots",
+        "deskripsi": "Sepatu model boots untuk gaya khas",
+        "harga": 800000,
+        "warna": ["cokelat", "hitam", "krem"],
+        "ukuran": [40, 41, 42, 43],
+        "gambar": "gambar_sepatu_boots.png"
+      },
+      {
+        "id": 7,
+        "nama": "Sepatu Sandal",
+        "deskripsi": "Sandal nyaman untuk digunakan sehari-hari",
+        "harga": 300000,
+        "warna": ["hitam", "biru", "merah"],
+        "ukuran": [38, 39, 40, 41, 42],
+        "gambar": "gambar_sepatu_sandal.png"
+      },
+      {
+        "id": 8,
+        "nama": "Sepatu Wedges",
+        "deskripsi": "Sepatu hak tinggi untuk gaya elegan",
+        "harga": 750000,
+        "warna": ["hitam", "cokelat", "merah"],
+        "ukuran": [37, 38, 39, 40, 41],
+        "gambar": "gambar_sepatu_wedges.png"
+      },
+      {
+        "id": 9,
+        "nama": "Sepatu Pantofel",
+        "deskripsi": "Sepatu formal dengan gaya klasik",
+        "harga": 900000,
+        "warna": ["hitam", "cokelat", "biru"],
+        "ukuran": [40, 41, 42, 43],
+        "gambar": "gambar_sepatu_pantofel.png"
+      },
+      {
+        "id": 10,
+        "nama": "Sepatu Slip-on",
+        "deskripsi": "Sepatu mudah dipakai tanpa tali",
+        "harga": 400000,
+        "warna": ["hitam", "abu-abu", "biru"],
+        "ukuran": [38, 39, 40, 41, 42],
+        "gambar": "gambar_sepatu_slip_on.png"
+      }
+    ]
+  }
+  
